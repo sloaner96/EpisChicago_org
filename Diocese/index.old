@@ -1,0 +1,62 @@
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="Content-language" CONTENT="en-US">
+	<META NAME="rating" CONTENT="General">
+	<META NAME="revisit-after" CONTENT="7 days">
+	<META NAME="ROBOTS" CONTENT="ALL">
+	<META NAME="keywords" CONTENT="episcopal, episcopal church, anglican, communion, diocese, diocesan center, bishop griswold, st. james, cathedral, st. james cathedral, episcopal charities, church, apostolic, christianity, christian, chicago, illinois, IL">
+	<META NAME="description" CONTENT="As the Diocese of Chicago, we are called to be a diverse and interactive community, gathered around one table, seeking through continual conversion to have the mind and heart of Christ.">
+	<LINK REV=made href="mailto:rpeete@rlpsolutions.com">
+	<TITLE>Chicago Diocese -- About the Diocese</TITLE>
+</head>
+
+<cfmodule template="/DioChicago/DioHeader.cfm" PageTitle="Meet the Diocese">
+
+<center><table width="90%" border="0" cellspacing="0" cellpadding="4" bgcolor="#E0DACD">
+<tr><td align=center>
+<font color="Maroon" face="Tahoma,Arial" size="+1">Diocesan&nbsp;Mission&nbsp;Statement</font><br>
+<font color="Navy" face="Arial">As the Anglican community in Northern Illinois, called by God to new and abundant life in Christ, we celebrate and share our Christian faith and tradition through worship, study, fellowship, social witness and service.</font>
+</td></tr>
+</table></center>
+
+<blockquote>	
+<font face="Verdana" size="-1">
+
+<table align=right border=0 cellspacing=6 cellpadding=0>
+<tr valign=top>
+	<td align=center>
+		<IMG SRC="/images/EpisCntrFull.jpg" WIDTH=300 HEIGHT=225 BORDER=1 ALT="Diocesan Center - downtown Chicago">
+		<p><I><B><FONT SIZE="+1" COLOR="Blue">Episcopal Church Center</FONT></B></I><br><small>65 E. Huron Street&nbsp;&middot;&nbsp;Chicago, IL  60611<br>(312) 751-4200</small><br>(<font size="-1"><a href="/Directions.cfm">Area Map</a> & <a href="/Parking.cfm">Parking</a></font>)</p>
+	</td>
+</tr>
+</table>
+
+<center>
+<A HREF="DioOffices.cfm"><IMG SRC="/images/btn-diooffices.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Diocesan Offices"></A>
+<A HREF="DioProfile.cfm"><IMG SRC="/images/btn-history.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Diocesan Convention"></A><br>
+<A HREF="DioHistory.cfm"><IMG SRC="/images/btn-dioprofile.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Diocesan Profile"></A>
+<A HREF="/Forms/Docs/AnnualCampaign2000.pdf"><IMG SRC="/images/btn-campaign.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Annual Diocesan Campaign"></A><br>
+<A HREF="Convention/"><IMG SRC="/images/btn-dc.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Diocesan Convention"></A>
+<A HREF="/Forms/DiocesanCanons.pdf"><IMG SRC="/images/btn-canons.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Diocesan Constitution and Canons"></A><br>
+<A HREF="Deaneries.cfm"><IMG SRC="/images/btn-deaneries.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Deanery Listing"></A>
+<A HREF="Commissions/"><IMG SRC="/images/btn-committees.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Committees and Commissions"></A><br>
+<A HREF="Organizations.cfm"><IMG SRC="/images/btn-orgs.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Organizations"></A>
+<A HREF="Offices/Finance/"><IMG SRC="/images/btn-finance.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Finance & Administration"></A><br>
+<A HREF="/Forms/Docs/ReDevelopmentReport.pdf"><IMG SRC="/images/btn-redev.gif" WIDTH=200 HEIGHT=25 BORDER=0 ALT="Annual Rdevelopment Task Force Report"></A>
+<A HREF="/Forms/Docs/CycleOfPrayers2003.pdf"><IMG SRC="/images/btn-prayer.gif" WIDTH=130 HEIGHT=25 BORDER=0 ALT="Diocesan Cycle of Prayer"></A><br>
+</center>
+
+<br><IMG SRC="/images/LetterA.gif" WIDTH=24 HEIGHT=28 BORDER=0> community of 44,000 Episcopalians engaged in Christian work and worship from an Anglican perspective in Northern Illinois. The diocese looks to the Rt. Rev. William Persell, Bishop of Chicago, for its pastoral and spiritual leadership; to its various committees and 11 Episcopal Charities agencies for action on social needs and concerns; and to the clergy and lay leaders of its 138 congregations, chapels and fellowships for expanding the church's witness.
+<p>Diversity and community are the hallmarks of the Diocese of Chicago's congregations. All cultures, colors and faith perspectives make up this mosaic, whose character and calling is best experienced through the witness of our lives.</p>
+
+<center>
+<big><p><b>About the <a href="DiocesanLogo.cfm">Diocesan Logo</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;
+<b>About the <a href="AboutDiocesanShield.cfm">Diocesan Shield</a></b></p></big>
+</center>
+
+</font>
+</blockquote>
+
+</cfmodule>
+
+</HTML>
